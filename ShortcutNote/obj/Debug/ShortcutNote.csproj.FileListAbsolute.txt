@@ -1,0 +1,9 @@
+C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Debug\ShortcutNote.exe.config
+C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Debug\ShortcutNote.exe
+C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Debug\ShortcutNote.pdb
+C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\obj\Debug\ShortcutNote.csprojAssemblyReference.cache
+C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\obj\Debug\ShortcutNote.csproj.GenerateResource.cache
+C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\obj\Debug\ShortcutNote.csproj.CoreCompileInputs.cache
+C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\obj\Debug\ShortcutNote.exe
+C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\obj\Debug\ShortcutNote.pdb
+C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\obj\Debug\ShortcutNote.ShortcutNote.resources

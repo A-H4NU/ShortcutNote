@@ -1,0 +1,86 @@
+﻿Installing assembly 'C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe
+   logfile = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.InstallLog
+Installing service ShortcutNote...
+Creating EventLog source ShortcutNote in log Application...
+Rolling back assembly 'C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe
+   logfile = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.InstallLog
+Restoring event log to previous state for source ShortcutNote.
+An exception occurred during the Rollback phase of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: The source was not found, but some or all event logs could not be searched.  Inaccessible logs: Security, State.
+An exception occurred during the Rollback phase of the installation. This exception will be ignored and the rollback will continue. However, the machine might not fully revert to its initial state after the rollback is complete.
+Installing assembly 'C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe
+   logfile = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.InstallLog
+Installing service ShortcutNote...
+Service ShortcutNote has been successfully installed.
+Creating EventLog source ShortcutNote in log Application...
+Committing assembly 'C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe
+   logfile = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.InstallLog
+Uninstalling assembly 'C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe
+   logfile = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.InstallLog
+Removing EventLog source ShortcutNote.
+Service ShortcutNote is being removed from the system...
+Service ShortcutNote was successfully removed from the system.
+Attempt to stop service ShortcutNote.
+Installing assembly 'C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe
+   logfile = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.InstallLog
+Installing service ShortcutNote...
+Creating EventLog source ShortcutNote in log Application...
+Rolling back assembly 'C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe
+   logfile = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.InstallLog
+Restoring event log to previous state for source ShortcutNote.
+Installing assembly 'C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe
+   logfile = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.InstallLog
+Installing service ShortcutNote...
+Service ShortcutNote has been successfully installed.
+Creating EventLog source ShortcutNote in log Application...
+Committing assembly 'C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe
+   logfile = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.InstallLog
+Uninstalling assembly 'C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe
+   logfile = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.InstallLog
+Removing EventLog source ShortcutNote.
+Service ShortcutNote is being removed from the system...
+Service ShortcutNote was successfully removed from the system.
+Attempt to stop service ShortcutNote.
+Installing assembly 'C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe
+   logfile = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.InstallLog
+Installing service ShortcutNote...
+Service ShortcutNote has been successfully installed.
+Creating EventLog source ShortcutNote in log Application...
+Committing assembly 'C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.exe
+   logfile = C:\Users\HANU\source\repos\ShortcutNote\ShortcutNote\bin\Release\ShortcutNote.InstallLog

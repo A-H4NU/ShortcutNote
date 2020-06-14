@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShortcutNote", "ShortcutNote\ShortcutNote.csproj", "{26BEEAA4-227F-44C0-B420-7EEDBE46DE0D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{A5798B21-B48E-49A2-9349-264C1A3F27B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26BEEAA4-227F-44C0-B420-7EEDBE46DE0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26BEEAA4-227F-44C0-B420-7EEDBE46DE0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26BEEAA4-227F-44C0-B420-7EEDBE46DE0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26BEEAA4-227F-44C0-B420-7EEDBE46DE0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5798B21-B48E-49A2-9349-264C1A3F27B8}.Debug|Any CPU.ActiveCfg = Debug
+		{A5798B21-B48E-49A2-9349-264C1A3F27B8}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {426DC462-1059-4B9E-B727-28E0CE297B94}
+	EndGlobalSection
+EndGlobal
